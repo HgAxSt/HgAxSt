@@ -1,34 +1,82 @@
-# 👋 Olá, eu sou o Hugo Strassa  
-
-🎓 Estudante de Bacharelado em **Sistemas de Informação** — Unicamp Limeira  
-💻 Desenvolvedor com experiência em **C, C++, Python, HTML, CSS, JavaScript (Node.js, React) e SQL (SQLite/Postgres)**  
-⚡ Gosto de transformar ideias em soluções práticas: desde aplicações desktop até projetos web completos  
+# Hugo Strassa
+### Desenvolvedor Full Stack | Estudante de Sistemas de Informação
 
 ---
 
-## 🔧 Tech Stack
-- **Linguagens:** C · C++ · Python · JavaScript · SQL  
-- **Frontend:** HTML · CSS · React  
-- **Backend:** Node.js  
-- **Bancos de Dados:** SQLite · PostgreSQL  
+## 👨‍💻 Sobre Mim
+
+Sou estudante de **Bacharelado em Sistemas de Informação** na Unicamp Limeira, apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em desenvolvimento full stack, desde aplicações desktop robustas até soluções web modernas e responsivas.
+
+Minha abordagem combina conhecimento técnico sólido com criatividade para transformar ideias complexas em soluções práticas e eficientes.
 
 ---
 
-## 📌 Projetos em Destaque
-- [**plant_site 🌱 **](https://github.com/HgAxSt/plant_site)
-- [**Kinght_project **](https://github.com/HgAxSt/Kinght_project)  
-- [**plant_monitor 🌱 **](https://github.com/HgAxSt/plant_monitor)
+## 🛠️ Tecnologias & Ferramentas
 
+### **Linguagens de Programação**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### **Backend & Banco de Dados**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 📫 Como me encontrar
-- ✉️ Email: **hugostrassa@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/hugo-strassa-2847aa264](https://www.linkedin.com/in/hugo-strassa-2847aa264/)  
+## 🚀 Projetos em Destaque
+
+### 🌱 [Plant Site](https://github.com/HgAxSt/plant_site)
+**Plataforma web para entusiastas de plantas**
+- Interface moderna e responsiva desenvolvida com tecnologias web
+- Foco em experiência do usuário e design intuitivo
+
+### ⚔️ [Knight Project](https://github.com/HgAxSt/Kinght_project)
+**Aplicação desktop desenvolvida em C/C++**
+- Demonstra conhecimentos em programação de baixo nível
+- Implementação de algoritmos eficientes e estruturas de dados
+
+### 🌿 [Plant Monitor](https://github.com/HgAxSt/plant_monitor)
+**Sistema de monitoramento inteligente**
+- Integração entre hardware e software
+- Aplicação prática de conceitos de IoT e automação
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HgAxSt&show_icons=true&hide_border=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HgAxSt&layout=compact&hide_border=true&theme=tokyonight)
+## 📈 Estatísticas do GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HgAxSt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HgAxSt&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Sistemas de Informação**  
+*Universidade Estadual de Campinas (Unicamp) - Campus Limeira*  
+*Em andamento*
+
+---
+
+## 📞 Contato
+
+Estou sempre aberto a novas oportunidades e colaborações interessantes!
+
+[![Email](https://img.shields.io/badge/Email-hugostrassa@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hugostrassa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Strassa-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-strassa-2847aa264/)
+
+---
+
+<div align="center">
+  <i>💡 "A tecnologia é melhor quando aproxima as pessoas." - Matt Mullenweg</i>
+</div>
