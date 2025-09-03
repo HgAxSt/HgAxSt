@@ -40,9 +40,7 @@ Minha abordagem combina conhecimento técnico sólido com criatividade para tran
 - Foco em experiência do usuário e design intuitivo
 
 ### ⚔️ [Knight Project](https://github.com/HgAxSt/Kinght_project)
-**Aplicação desktop desenvolvida em C/C++**
-- Demonstra conhecimentos em programação de baixo nível
-- Implementação de algoritmos eficientes e estruturas de dados
+**Projeto de game em GML**
 
 ### 🌿 [Plant Monitor](https://github.com/HgAxSt/plant_monitor)
 **Sistema de monitoramento inteligente**
