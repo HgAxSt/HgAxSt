@@ -34,7 +34,7 @@ Minha abordagem combina conhecimento técnico sólido com criatividade para tran
 
 ## 🚀 Projetos em Destaque
 
-### 🌱 [Plant Site](https://github.com/HgAxSt/plant_site)
+### 🌱 [BOTANIC_Site](https://github.com/HgAxSt/BOTANIC_SITE)
 **Plataforma web para entusiastas de plantas**
 - Interface moderna e responsiva desenvolvida com tecnologias web
 - Foco em experiência do usuário e design intuitivo
