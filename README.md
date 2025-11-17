@@ -34,18 +34,25 @@ Minha abordagem combina conhecimento técnico sólido com criatividade para tran
 
 ## 🚀 Projetos em Destaque
 
+### 🏥 [Sistema Especialista Híbrido para Diagnóstico Médico](https://github.com/HgAxSt/Sistema-de-Apoio-Decis-o)
+**Integração de IA Simbólica e Numérica para saúde**
+- Sistema de Apoio à Decisão (SAD) desenvolvido em **Python**.
+- Hibridização de **Machine Learning** (Scikit-learn) com **Sistema de Regras** (Experta/Pyknow).
+- Foco em explicabilidade e redução de falsos negativos no diagnóstico de câncer de mama.
+
 ### 🌱 [BOTANIC_Site](https://github.com/HgAxSt/BOTANIC_SITE)
 **Plataforma web para entusiastas de plantas**
-- Interface moderna e responsiva desenvolvida com tecnologias web
-- Foco em experiência do usuário e design intuitivo
+- Interface moderna e responsiva desenvolvida com tecnologias web.
+- Foco em experiência do usuário e design intuitivo.
 
 ### ⚔️ [Knight Project](https://github.com/HgAxSt/Kinght_project)
 **Projeto de game em GML**
+- Jogo desenvolvido utilizando GameMaker Language.
 
 ### 🌿 [Plant Monitor](https://github.com/HgAxSt/plant_monitor)
 **Sistema de monitoramento inteligente**
-- Integração entre hardware e software
-- Aplicação prática de conceitos de IoT e automação
+- Integração entre hardware e software.
+- Aplicação prática de conceitos de IoT e automação.
 
 ---
 
@@ -60,9 +67,7 @@ Minha abordagem combina conhecimento técnico sólido com criatividade para tran
 
 ## 🎓 Formação
 
-**Bacharelado em Sistemas de Informação**  
-*Universidade Estadual de Campinas (Unicamp) - Campus Limeira*  
-*Em andamento*
+**Bacharelado em Sistemas de Informação** *Universidade Estadual de Campinas (Unicamp) - Campus Limeira* *Em andamento*
 
 ---
 
