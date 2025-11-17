@@ -1,5 +1,5 @@
 # Hugo Strassa
-### Desenvolvedor Full Stack | Estudante de Sistemas de Informação
+### Estudante de Sistemas de Informação
 
 ---
 
