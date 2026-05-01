@@ -34,11 +34,11 @@ Minha abordagem combina conhecimento técnico sólido com criatividade para tran
 
 ## 🚀 Projetos em Destaque
 
-### 🏥 [Sistema Especialista Híbrido para Diagnóstico Médico](https://github.com/HgAxSt/Sistema-de-Apoio-Decis-o)
-**Integração de IA Simbólica e Numérica para saúde**
-- Sistema de Apoio à Decisão (SAD) desenvolvido em **Python**.
-- Hibridização de **Machine Learning** (Scikit-learn) com **Sistema de Regras** (Experta/Pyknow).
-- Foco em explicabilidade e redução de falsos negativos no diagnóstico de câncer de mama.
+### 🎵 [Classificação de Gêneros Musicais](https://github.com/HgAxSt/MD)
+**Aprendizado de Máquina aplicado a sinais de áudio (TT004)**
+- Classificação automática utilizando o dataset **GTZAN**, focando em atributos matemáticos das ondas sonoras.
+- Comparação de performance entre modelos de **Decision Tree** e **Redes Neurais (MLP)** utilizando Scikit-Learn.
+- Desenvolvimento em **Python** seguindo estritamente os princípios de Clean Code.
 
 ### 🌱 [BOTANIC_Site](https://github.com/HgAxSt/BOTANIC_SITE)
 **Plataforma web para entusiastas de plantas**
