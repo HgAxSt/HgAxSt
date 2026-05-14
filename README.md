@@ -34,7 +34,7 @@ Minha abordagem combina conhecimento técnico sólido com criatividade para tran
 
 ## 🚀 Projetos em Destaque
 
-### 🎵 [Classificação de Gêneros Musicais](https://github.com/HgAxSt/MD)
+### 🎵 [Classificação de Gêneros Musicais]((https://github.com/HgAxSt/Identifica-o-de-g-neros-musicais))
 **Aprendizado de Máquina aplicado a sinais de áudio (TT004)**
 - Classificação automática utilizando o dataset **GTZAN**, focando em atributos matemáticos das ondas sonoras.
 - Comparação de performance entre modelos de **Decision Tree** e **Redes Neurais (MLP)** utilizando Scikit-Learn.
