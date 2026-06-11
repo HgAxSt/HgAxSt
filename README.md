@@ -1,62 +1,66 @@
-# Hugo Strassa
-### Estudante de Sistemas de Informação
+# 🖖 Olá, eu sou o Hugo Strassa
+### Estudante de Sistemas de Informação & Engenharia de Dados
 
 ---
 
 ## 👨‍💻 Sobre Mim
+Sou estudante de **Sistemas de Informação** na Unicamp Limeira, com forte atuação e interesse nas áreas de **Engenharia de Dados**, **Machine Learning** e **Desenvolvimento de Software**. Minha paixão é unir tecnologia e resolução de problemas complexos, seja construindo pipelines de dados, aplicando Inteligência Artificial no processamento de sinais de áudio (DSP), ou criando sistemas IoT.
 
-Sou estudante de **Bacharelado em Sistemas de Informação** na Unicamp Limeira, apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em desenvolvimento full stack, desde aplicações desktop robustas até soluções web modernas e responsivas.
-
-Minha abordagem combina conhecimento técnico sólido com criatividade para transformar ideias complexas em soluções práticas e eficientes.
+Prezo sempre pela construção de um *Clean Code*, utilização das melhores práticas e arquiteturas bem documentadas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🎯 Foco Atual
+- 📊 **Data Engineering & Science:** Python, Pandas, PyTorch, Scikit-learn
+- 🎵 **Audio Tech & AI:** Processamento Digital de Sinais (DSP), Librosa, WhisperX
+- 🌿 **IoT & Automação:** Integração de hardware e software aplicada à botânica
 
-### **Linguagens de Programação**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+---
+
+## 💻 Tech Arsenal
+
+### **Backend & Dados**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### **Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### **Backend & Banco de Dados**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+### 🎙️ Artemis (Análise Vocal com IA)
+**Ferramenta de análise de performance de cantores**
+- Processamento de áudio e extração de features matemáticas utilizando **Librosa**.
+- Transcrição e alinhamento de áudio de alta precisão com **WhisperX**.
+- Arquitetura desenvolvida em **Vue.js** (Frontend) e **Flask** (Backend).
+
 ### 🎵 [Classificação de Gêneros Musicais](https://github.com/HgAxSt/Identifica-o-de-g-neros-musicais)
-**Aprendizado de Máquina aplicado a sinais de áudio (TT004)**
+**Machine Learning aplicado a sinais de áudio (TT004)**
 - Classificação automática utilizando o dataset **GTZAN**, focando em atributos matemáticos das ondas sonoras.
 - Comparação de performance entre modelos de **Decision Tree** e **Redes Neurais (MLP)** utilizando Scikit-Learn.
-- Desenvolvimento em **Python** seguindo estritamente os princípios de Clean Code.
+
+### 🌿 [Plant Monitor & Plant AI](https://github.com/HgAxSt/plant_monitor)
+**Sistema de monitoramento inteligente e detecção botânica**
+- Integração IoT entre hardware e software para monitoramento em tempo real.
+- Foco prático em automação e detecção de anomalias/doenças em plantas.
 
 ### 🌱 [BOTANIC_Site](https://github.com/HgAxSt/BOTANIC_SITE)
 **Plataforma web para entusiastas de plantas**
-- Interface moderna e responsiva desenvolvida com tecnologias web.
-- Foco em experiência do usuário e design intuitivo.
-
-### ⚔️ [Knight Project](https://github.com/HgAxSt/Kinght_project)
-**Projeto de game em GML**
-- Jogo desenvolvido utilizando GameMaker Language.
-
-### 🌿 [Plant Monitor](https://github.com/HgAxSt/plant_monitor)
-**Sistema de monitoramento inteligente**
-- Integração entre hardware e software.
-- Aplicação prática de conceitos de IoT e automação.
+- Interface moderna e responsiva com foco total na experiência do usuário e design intuitivo.
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 GitHub Insights
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HgAxSt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -65,15 +69,15 @@ Minha abordagem combina conhecimento técnico sólido com criatividade para tran
 
 ---
 
-## 🎓 Formação
-
-**Bacharelado em Sistemas de Informação** *Universidade Estadual de Campinas (Unicamp) - Campus Limeira* *Em andamento*
+## 🎓 Formação & Carreira
+- **Engenharia de Dados (Estágio)** - *SysMap Solutions* (2026)
+- **Bacharelado em Sistemas de Informação** - *Universidade Estadual de Campinas (Unicamp)* (Previsão: 2027)
 
 ---
 
-## 📞 Contato
+## 🌐 Vamos nos conectar?
 
-Estou sempre aberto a novas oportunidades e colaborações interessantes!
+Estou sempre aberto a novas oportunidades, colaborações técnicas em código aberto ou boas conversas sobre tecnologia e música!
 
 [![Email](https://img.shields.io/badge/Email-hugostrassa@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hugostrassa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Strassa-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-strassa-2847aa264/)
