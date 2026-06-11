@@ -70,7 +70,6 @@ Prezo sempre pela construção de um *Clean Code*, utilização das melhores pr�
 ---
 
 ## 🎓 Formação & Carreira
-- **Engenharia de Dados (Estágio)** - *SysMap Solutions* (2026)
 - **Bacharelado em Sistemas de Informação** - *Universidade Estadual de Campinas (Unicamp)* (Previsão: 2027)
 
 ---
